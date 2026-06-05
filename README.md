@@ -274,7 +274,7 @@ git --version
 
 **Nikhil Kumar**
 BTech — University of Petroleum and Energy Studies (UPES)
-📍 Ghaziabad, Uttar Pradesh, India
+📍 Dehradun, Uttarakhand, India
 🐙 GitHub: [Nikhil-Singh-24](https://github.com/Nikhil-Singh-24)
 
 ---
@@ -287,4 +287,3 @@ The architecture, manifests, Helm charts, Terraform configs, and CI/CD pipelines
 
 ---
 
-*Built as part of the Ultimate DevOps Real-World Project Implementation course.*
